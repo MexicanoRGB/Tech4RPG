@@ -1,0 +1,1 @@
+O arquivo configuração deve estar dentro do disco local C, se não estiver lá o programa não vai funcionar como deveria
