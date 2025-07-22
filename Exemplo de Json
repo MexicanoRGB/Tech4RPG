@@ -1,0 +1,18 @@
+Json de classe
+
+{
+  "nome": "",
+  "descricao": "",
+  "habilidades": [
+    ""
+  ]
+}
+
+Json de personagem
+
+{
+  "nome": "",
+  "idClasse": "provido quando a criação da classe",
+  "nivel": ,
+  "experiencia": 
+}
